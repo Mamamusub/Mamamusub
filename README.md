@@ -22,3 +22,15 @@ ESP32 • Arduino • Microcontrollers
 
 **Tools & Deployment**  
 Git • GitHub • VS Code • Vercel
+
+## Featured Projects
+
+### [Amaris Helper](https://github.com/Mamamusub/Amaris-Helper)
+Full-stack productivity workspace designed for university students, combining study management, task tracking, career planning, and personal productivity tools.
+
+**Tech:** TypeScript • Next.js • React • PostgreSQL • Supabase • Prisma • Vercel
+
+### [ESP32-Based Patient Monitoring System](https://github.com/Mamamusub/ESP32-Patient-Monitoring-System)
+University team project exploring an ESP32-based monitoring prototype with PIR movement detection, LINE notifications, camera monitoring, and voice control.
+
+**Tech:** ESP32 • Arduino • C/C++ • PIR Sensor • ESP32 Camera • LINE Messaging API
