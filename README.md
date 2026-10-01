@@ -34,3 +34,8 @@ Full-stack productivity workspace designed for university students, combining st
 University team project exploring an ESP32-based monitoring prototype with PIR movement detection, LINE notifications, camera monitoring, and voice control.
 
 **Tech:** ESP32 • Arduino • C/C++ • PIR Sensor • ESP32 Camera • LINE Messaging API
+
+### [Stock Portfolio LINE Bot](https://github.com/Mamamusub/Stock-Portfolio-LINE-Bot)
+Python automation project connecting Google Sheets with the LINE Messaging API for portfolio summaries, allocation visualization, and push updates.
+
+**Tech:** Python • Flask • Google Sheets API • LINE Messaging API • gspread • QuickChart
