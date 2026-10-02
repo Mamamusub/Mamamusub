@@ -4,7 +4,7 @@ Computer Engineering student at Kasetsart University interested in **Full-Stack 
 
 I enjoy building practical projects that combine software, web technologies, and hardware to solve real-world problems.
 
-Currently exploring new technologies and preparing for software engineering internship opportunities.
+Currently building full-stack and software projects while preparing for software engineering internship opportunities.
 
 ## Tech Stack
 
